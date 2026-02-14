@@ -53,22 +53,6 @@ lib/
     └── search_bar_widget.dart   # Arama çubuğu widget'ı
 ```
 
-## Kurulum
-
-```bash
-# Repoyu klonlayın
-git clone https://github.com/ozkanfurkandev/Cartify.git
-
-# Proje dizinine gidin
-cd Cartify
-
-# Bağımlılıkları yükleyin
-flutter pub get
-
-# Uygulamayı çalıştırın
-flutter run
-```
-
 ## API
 
 Uygulama, [FakeStoreAPI](https://fakestoreapi.com) formatında hazırlanmış lokal JSON simülasyon verisi kullanmaktadır. Ağ bağlantısı yalnızca ürün görselleri için gereklidir.
